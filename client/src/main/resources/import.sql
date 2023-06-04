@@ -1,0 +1,10 @@
+INSERT INTO tb_clients(name, cpf, income, birth_date, children) VALUES('Lucas williams', '09055496430', 2800, TIMESTAMP WITH TIME ZONE '2023-05-03T14:32:00Z', 2);
+INSERT INTO tb_clients(name, cpf, income, birth_date, children) VALUES('Rayane alcantara', '07549003475', 1300, TIMESTAMP WITH TIME ZONE '2023-02-02T13:30:00Z',2);
+INSERT INTO tb_clients(name, cpf, income, birth_date, children) VALUES('Diego Natanael', '96184327852',1200, TIMESTAMP WITH TIME ZONE '2022-02-01T12:10:00Z',3);
+INSERT INTO tb_clients(name, cpf, income, birth_date, children) VALUES('Leo Dias', '91347154523', 800, TIMESTAMP WITH TIME ZONE '2019-01-01T23:00:12Z',1);
+INSERT INTO tb_clients(name, cpf, income, birth_date, children) VALUES('Cristian williams', '67745558298', 1800, TIMESTAMP WITH TIME ZONE '2021-05-03T10:32:00Z', 2);
+INSERT INTO tb_clients(name, cpf, income, birth_date, children) VALUES('Rafaela alcantara', '37537038856', 1400, TIMESTAMP WITH TIME ZONE '2020-02-02T13:30:00Z',8);
+INSERT INTO tb_clients(name, cpf, income, birth_date, children) VALUES('Carlos Natanael', '53720440397',1600, TIMESTAMP WITH TIME ZONE '2023-02-01T12:10:00Z',5);
+INSERT INTO tb_clients(name, cpf, income, birth_date, children) VALUES('Luiz Dias', '61434534200', 900, TIMESTAMP WITH TIME ZONE '2018-01-01T23:00:12Z',4);
+INSERT INTO tb_clients(name, cpf, income, birth_date, children) VALUES('Henrique Silva', '79159214368',1500, TIMESTAMP WITH TIME ZONE '2023-02-01T12:10:00Z',5);
+INSERT INTO tb_clients(name, cpf, income, birth_date, children) VALUES('Luiz Martins', '68415820631', 1000, TIMESTAMP WITH TIME ZONE '2018-01-01T23:00:12Z',4);
