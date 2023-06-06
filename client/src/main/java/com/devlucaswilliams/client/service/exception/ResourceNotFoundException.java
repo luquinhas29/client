@@ -1,4 +1,4 @@
-package com.devlucaswilliams.client.exception;
+package com.devlucaswilliams.client.service.exception;
 
 public class ResourceNotFoundException extends RuntimeException{
 	private static final long serialVersionUID = 1L;
